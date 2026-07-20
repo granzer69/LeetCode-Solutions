@@ -16,11 +16,11 @@ class Solution:
 
             time +=1
 
-            if cooldown and cooldown[0][0] == time:
+            while cooldown and cooldown[0][0] == time:
                 
                 _,avail_task,rem_count = cooldown.popleft()
                 heapq.heappush(heap,(-rem_count,avail_task))
-                
+
 
             if heap:
                 freq,task = heapq.heappop(heap)
