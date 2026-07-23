@@ -2,14 +2,11 @@ class Solution:
     def threeSum(self, nums: list[int]) -> list[list[int]]:
 
         nums.sort()
-
-        seen = []
-
         res = []
 
         for i in range(len(nums)):
 
-            if nums[i] in seen:
+            if i>0 and nums[i] == nums[i-1]:
                 continue
 
             left = i+1
@@ -37,8 +34,6 @@ class Solution:
 
                     while left < right and nums[right] == nums[right + 1]:
                         right -=1
-            
-            seen.append(nums[i])
 
         return res
                 
