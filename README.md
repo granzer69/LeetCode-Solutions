@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/granzer69/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/granzer69/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0128-longest-consecutive-sequence](https://github.com/granzer69/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0215-kth-largest-element-in-an-array](https://github.com/granzer69/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/granzer69/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/granzer69/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0621-task-scheduler](https://github.com/granzer69/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 | [0973-k-closest-points-to-origin](https://github.com/granzer69/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/granzer69/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0287-find-the-duplicate-number](https://github.com/granzer69/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
 |  |
