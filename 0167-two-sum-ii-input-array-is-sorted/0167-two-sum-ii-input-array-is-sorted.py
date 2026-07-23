@@ -1,13 +1,18 @@
 class Solution:
-    def twoSum(self, numbers: List[int], target: int) -> List[int]:
+    def twoSum(self, nums: List[int], target: int) -> List[int]:
 
+            left = 0
+            right = len(nums) - 1
 
-        seen={}
+            while left < right:
 
-        for i in range(len(numbers)):
-            complement=target-numbers[i]
+                total = nums[left] + nums[right]
 
-            if complement in seen:
-                return [seen[complement]+1,i+1]
+                if total == target:
+                    return [left + 1, right + 1]
 
-            seen[numbers[i]]=i
+                elif total < target:
+                    left +=1
+
+                else:
+                    right -=1
