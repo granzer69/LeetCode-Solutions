@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/granzer69/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0621-task-scheduler](https://github.com/granzer69/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 | [0973-k-closest-points-to-origin](https://github.com/granzer69/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
+| [1480-running-sum-of-1d-array](https://github.com/granzer69/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 ## Queue
 |  |
 | ------- |
@@ -147,4 +148,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/granzer69/LeetCode-Solutions/tree/master/0200-number-of-islands) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/granzer69/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
