@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/granzer69/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/granzer69/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/granzer69/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0303-range-sum-query-immutable](https://github.com/granzer69/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0621-task-scheduler](https://github.com/granzer69/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 | [0973-k-closest-points-to-origin](https://github.com/granzer69/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1480-running-sum-of-1d-array](https://github.com/granzer69/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/granzer69/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0355-design-twitter](https://github.com/granzer69/LeetCode-Solutions/tree/master/0355-design-twitter) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/granzer69/LeetCode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
@@ -151,5 +153,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/granzer69/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [1480-running-sum-of-1d-array](https://github.com/granzer69/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
